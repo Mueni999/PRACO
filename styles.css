@@ -1,0 +1,21 @@
+h1{
+    font-size: xx-large;
+    color: brown;
+    text-align: center;
+    font-style: italic;
+}
+h2{
+    font-size: x-large;
+    color:purple;
+    font-style: oblique;
+}
+body{
+    font-style: italic;
+    color: darkblue;
+    background-image: url(https://images.unsplash.com/photo-1560746420-1b4dc6d92d17?q=80&w=388&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+
+}
+h3{
+    font-size: medium;
+    color: darkmagenta;
+}
